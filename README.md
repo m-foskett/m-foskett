@@ -13,7 +13,7 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=python&animation=spin&fill=000000&textfill=fdae26&svgfill=3776AB">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=flask&fill=000000&textfill=fdae26&svgfill=ffffff">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=firebase&fill=000000&textfill=fdae26&svgfill=ffca28">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=socket.io&fill=000000&textfill=fdae26&svgfill=ffffff">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=socket.io&fill=000000&textfill=fdae26&svgfill=ffffff&animation=spin">
   <!--- <img  src="https://readme-components.vercel.app/api?component=logo&logo=express&fill=000000&textfill=fdae26&svgfill=ffffff"> --->
   
 </p>
