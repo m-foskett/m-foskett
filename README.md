@@ -15,15 +15,14 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=firebase&fill=000000&textfill=fdae26&svgfill=ffca28">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=socket.io&fill=000000&textfill=fdae26&svgfill=ffffff&animation=spin">
   <!--- <img  src="https://readme-components.vercel.app/api?component=logo&logo=express&fill=000000&textfill=fdae26&svgfill=ffffff"> --->
-  
 </p>
 
-<p align="right">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=m-foskett&theme=juicyfresh&margin-w=15&no-bg=true&title=Repositories,Commits,PullRequest" />
-</p>
+<div align='center'>
+  <img align=top src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-foskett&langs_count=5&layout=compact&theme=great-gatsby'  </img>
+</div>
+
+<img align='right' alt="trophies" src="https://github-profile-trophy.vercel.app/?username=m-foskett&theme=juicyfresh&margin-w=15&no-bg=true&title=Repositories,Commits,PullRequest,Issues" />
+
 <p align="center">
-  <img alt="cantina" width="125px" src="https://user-images.githubusercontent.com/39360732/233834356-c695028d-4d2e-45c4-9129-e9c6da40e207.gif"</img>
+  <img alt="cantina" width="125px" src="https://user-images.githubusercontent.com/39360732/233834356-c695028d-4d2e-45c4-9129-e9c6da40e207.gif" /img>
 </p>
-
-
-
