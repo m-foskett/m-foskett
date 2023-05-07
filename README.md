@@ -14,11 +14,12 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=flask&fill=000000&textfill=fdae26&svgfill=ffffff">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=firebase&fill=000000&textfill=fdae26&svgfill=ffca28">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=socket.io&fill=000000&textfill=fdae26&svgfill=ffffff&animation=spin">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=godotengine&fill=000000&textfill=fdae26&svgfill=478CBF&animation=spin">
   <!--- <img  src="https://readme-components.vercel.app/api?component=logo&logo=express&fill=000000&textfill=fdae26&svgfill=ffffff"> --->
 </p>
 
 <div align='center'>
-  <img align=top src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-foskett&langs_count=5&layout=compact&theme=great-gatsby'  </img>
+  <img align=top src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-foskett&langs_count=6&layout=compact&theme=great-gatsby'  </img>
 </div>
 
 <img align='right' alt="trophies" src="https://github-profile-trophy.vercel.app/?username=m-foskett&theme=juicyfresh&margin-w=15&no-bg=true&title=Repositories,Commits,PullRequest,Issues" />
