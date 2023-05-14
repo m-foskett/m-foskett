@@ -15,6 +15,8 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=firebase&fill=000000&textfill=fdae26&svgfill=ffca28">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=socket.io&fill=000000&textfill=fdae26&svgfill=ffffff&animation=spin">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=godotengine&fill=000000&textfill=fdae26&svgfill=478CBF&animation=spin">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=.net&fill=000000&textfill=fdae26&svgfill=512BD4">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=microsoftsqlserver&fill=000000&textfill=fdae26&svgfill=CC2927">
   <!--- <img  src="https://readme-components.vercel.app/api?component=logo&logo=express&fill=000000&textfill=fdae26&svgfill=ffffff"> --->
 </p>
 
