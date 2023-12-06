@@ -21,7 +21,7 @@
 </p>
 
 <div align='center'>
-  <img align=top src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-foskett&langs_count=10&layout=compact&theme=chartreuse-dark'  </img>
+  <img align=top src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-foskett&langs_count=12&layout=compact&theme=chartreuse-dark'  </img>
 </div>
 
 <div align='center'>
