@@ -21,7 +21,7 @@
 </p>
 
 <div align='center'>
-  <img align=top src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-foskett&langs_count=8&layout=compact&theme=great-gatsby'  </img>
+  <img align=top src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-foskett&langs_count=10&layout=compact&theme=great-gatsby'  </img>
 </div>
 
 <img align='right' alt="trophies" src="https://github-profile-trophy.vercel.app/?username=m-foskett&theme=juicyfresh&margin-w=15&no-bg=true&title=Repositories,Commits,PullRequest,Issues" />
