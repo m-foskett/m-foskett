@@ -28,6 +28,6 @@
   <img align='top' alt="trophies" src="https://github-profile-trophy.vercel.app/?username=m-foskett&row=2&column=3&theme=matrix&margin-w=15&margin-h=15&no-bg=true&title=PullRequest,Commits,Experience,Repositories,Stars,MultiLanguage" />
 </div>
 <p align="center">
-  <img alt="7segment" width="125px" src="./assets/7_segment.gif" /img>
-  <img alt="cantina" width="125px" src="https://user-images.githubusercontent.com/39360732/233834356-c695028d-4d2e-45c4-9129-e9c6da40e207.gif" /img>
+  <img align='left' alt="7segment" width="125px" src="./assets/7_segment.gif" /img>
+  <img align='right' alt="cantina" width="125px" src="https://user-images.githubusercontent.com/39360732/233834356-c695028d-4d2e-45c4-9129-e9c6da40e207.gif" /img>
 </p>
