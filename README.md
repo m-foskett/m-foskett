@@ -8,6 +8,7 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=c&animation=spin&fill=000000&textfill=3DDC84&svgfill=A8B9CC">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&fill=000000&textfill=3DDC84&svgfill=#00599C">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=arduino&animation=spin&fill=000000&textfill=3DDC84&svgfill=00878F">
+  <img  src="https://readme-components.vercel.app/api?component=logo&desc=STMicroelectronics&logo=ST&animation=spin&fill=000000&textfill=3DDC84&svgfill=03234B">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=raspberryPi&animation=spin&fill=000000&textfill=3DDC84&svgfill=A22846">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=bluetooth&fill=000000&textfill=3DDC84&svgfill=0082FC">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=000000&textfill=3DDC84&svgfill=3776AB">
