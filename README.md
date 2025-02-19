@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="banner" src="./assets/banner2.png"</img>
+  <img src="https://socialify.git.ci/m-foskett/m-foskett/image?font=Source+Code+Pro&logo=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000150531957-blrqpy-t500x500.jpg&name=1&pattern=Floating+Cogs&theme=Dark" alt="banner" width="700" height="300" />
 </p>
 
 ## Frameworks/Libraries/Tools I enjoy using
